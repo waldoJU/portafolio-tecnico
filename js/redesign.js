@@ -322,7 +322,7 @@
 
         const response =
             await fetch(
-                "https://api.counterapi.dev/v1/waldouto/portafolio-tecnico/up"
+                "https://api.counterapi.dev/v1/waldoJU/portafolio-tecnico/up"
             );
 
         if (!response.ok) {
@@ -386,7 +386,7 @@
         "waldoPortfolioVisitCounted";
 
     const namespace =
-        "waldouto";
+        "waldoJU";
 
     const counterKey =
         "portafolio-tecnico";
